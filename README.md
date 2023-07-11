@@ -1,3 +1,6 @@
+![lp-_online-video-cutter com_](https://github.com/danibenfica/projeto-landing-page/assets/103818625/c53391a7-a4a5-4339-a63f-243c812d7b1e)
+
+
 # Projeto Landing Page
 
 [Link do projeto online aqui!](https://projeto-landing-page-liard.vercel.app/)
