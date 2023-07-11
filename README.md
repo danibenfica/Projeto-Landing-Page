@@ -1,4 +1,6 @@
-# Documentação do Projeto Landing Page
+# Projeto Landing Page
+
+[Link do projeto online aqui!](https://projeto-landing-page-liard.vercel.app/)
 
 Este é um projeto de uma página web para a Escola DNC, que visa fornecer informações sobre seus cursos de tecnologia e permitir que os usuários se inscrevam em um curso gratuito de Introdução à Tecnologia. O projeto inclui um carrossel de depoimentos de alunos, um vídeo explicativo, informações sobre os cursos e um formulário de inscrição.
 É uma landing page simples, e serve com o intuito de aprender princípios básicos do funcionamento do HTML, CSS e JavaScript.
